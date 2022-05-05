@@ -15,7 +15,7 @@ function App() {
         {`
         .content {
           position: fixed;
-          left: 100px;
+          right: 100px;
           bottom: 60px;
         }
         `}
